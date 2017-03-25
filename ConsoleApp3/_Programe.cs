@@ -13,7 +13,7 @@ namespace Hangman
 
         public static void Main()
         {
-            Console.WriteLine("Welcome to hangman!");
+            Console.WriteLine("Welcome Tatiana !");
 
             string word = string.Empty;
             string guess = string.Empty;
